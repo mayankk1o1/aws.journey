@@ -1,0 +1,8 @@
+Description: My EC2 instance using CFT 
+
+Resources:
+  MyEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-01a00762f46d584a1
+      InstanceType: t3.micro
