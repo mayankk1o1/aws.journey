@@ -1,7 +1,5 @@
 # AWS VPC + EC2 Static HTML Application
 
-> Beginner AWS networking project covering VPC, subnets, route tables, Internet Gateway, Security Groups, EC2, SSH, Nginx, and HTML deployment.
-
 ---
 
 ## Architecture
