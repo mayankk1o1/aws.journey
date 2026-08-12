@@ -29,6 +29,8 @@ Nginx :80
 index.html
 ```
 
+![alt text](<Project AWS.png>)
+
 Private subnet created separately:
 
 ```text
