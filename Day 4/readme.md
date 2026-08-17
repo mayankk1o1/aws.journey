@@ -27,3 +27,5 @@ YAML Template → CloudFormation Stack → EC2 Instance
 Always ensure the **AMI ID is available in the selected AWS region** and maintain correct YAML indentation.
 
 Check the other YAML file for the exact template I used to create an EC2 instance! 
+
+
